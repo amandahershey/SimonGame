@@ -1,5 +1,4 @@
 # SimonGame
-<img src="https://drive.google.com/uc?id=1nhSH4_JnF5sOFAbt0IEK_DgoC0FZzVj_" />
 
 > A Simon Game built with JQuery
 
@@ -17,3 +16,7 @@
 ## CodePen
 
 <a href="https://codepen.io/amandahershey/pen/WNeGoXo">View Here</a>
+
+<img src="https://drive.google.com/uc?id=1nhSH4_JnF5sOFAbt0IEK_DgoC0FZzVj_" />
+
+Thank you for checking out my project 😄
